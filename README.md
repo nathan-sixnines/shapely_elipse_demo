@@ -3,10 +3,11 @@ demo of shapely finding intersection between elipses
 To use:
 
 pip install -r requirements.txt
+
 python elipses.py
 
 
-Will draw some plots in the local directory and print out some points
+It will draw some plots in the local directory and print out some points
 
 If you take this further, be aware shapely functions like intersect can return different types of objects depending on what the intersection actually is.
 
