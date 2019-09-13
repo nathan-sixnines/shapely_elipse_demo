@@ -1,4 +1,4 @@
-
+#source: https://gis.stackexchange.com/questions/243459/drawing-ellipse-with-shapely
 
 from matplotlib import pyplot
 from shapely.geometry.point import Point
